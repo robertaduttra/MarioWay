@@ -7,4 +7,4 @@ Criando o jogo com tema do Mario, utilizando a linguagem de programação JavaSc
 
 Link para jogar: https://editor.p5js.org/robertaduttra/full/0ixe-bYEZ
 
-Orientações: Movar o personagem com as setas para cima e para baixo, sem bater nos vilões. Boa Sorte !
+Orientações: Mova o personagem(Mario) com as setas para cima e para baixo, sem bater nos vilões. Boa Sorte !
